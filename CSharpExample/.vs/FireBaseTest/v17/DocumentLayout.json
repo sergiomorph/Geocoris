@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\FireBaseTest\\FireBaseTest\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Geocoris\\CSharpExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B220C-AEC9-46D2-B91C-9F81C543D648}|FireBaseTest.csproj|c:\\git\\firebasetest\\firebasetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD6B220C-AEC9-46D2-B91C-9F81C543D648}|FireBaseTest.csproj|c:\\users\\usuario\\documents\\github\\geocoris\\csharpexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD6B220C-AEC9-46D2-B91C-9F81C543D648}|FireBaseTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B220C-AEC9-46D2-B91C-9F81C543D648}|FireBaseTest.csproj|c:\\git\\firebasetest\\firebasetest\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD6B220C-AEC9-46D2-B91C-9F81C543D648}|FireBaseTest.csproj|C:\\Users\\Usuario\\Documents\\GitHub\\Geocoris\\CSharpExample\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD6B220C-AEC9-46D2-B91C-9F81C543D648}|FireBaseTest.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Point.cs",
-              "DocumentMoniker": "C:\\Git\\FireBaseTest\\FireBaseTest\\Point.cs",
-              "RelativeDocumentMoniker": "Point.cs",
-              "ToolTip": "C:\\Git\\FireBaseTest\\FireBaseTest\\Point.cs",
-              "RelativeToolTip": "Point.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T16:10:29.055Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\FireBaseTest\\FireBaseTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Geocoris\\CSharpExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Git\\FireBaseTest\\FireBaseTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Geocoris\\CSharpExample\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAUwEAAAAAeAAAA",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAkwOMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T15:33:08.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Geocoris\\CSharpExample\\Point.cs",
+              "RelativeDocumentMoniker": "Point.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Geocoris\\CSharpExample\\Point.cs",
+              "RelativeToolTip": "Point.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:10:29.055Z",
               "EditorCaption": ""
             }
           ]
